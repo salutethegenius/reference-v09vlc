@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salutethegenius.github.io/reference-v09vlc/sitemap.xml
